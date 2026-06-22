@@ -9,5 +9,5 @@
 ![React Native](https://img.shields.io/badge/React_Native-d19bf5?style=for-the-badge&logo=react&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-bc6df0?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-a73feb?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![PHP](https://img.shields.io/badge/php-8315cc.svg?style=for-the-badge&logo=php&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-5f0f94.svg?style=for-the-badge&logo=postgresql&logoColor=white)
